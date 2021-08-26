@@ -6,5 +6,5 @@ In omnichannel customer service environments, where no real process is enforced,
 
 
 ## Contacts
-Sophie van den Berg, sophievandenberg4@gmail.com - Eindhoven University of Technology \\
+Sophie van den Berg, sophievandenberg4@gmail.com - Eindhoven University of Technology \n
 Assistant Professor Marwan Hassani, m.hassani@tue.nl - Eindhoven University of Technology
